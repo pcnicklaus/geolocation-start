@@ -8,7 +8,6 @@ var MAXIMUM_AGE = 200; // miliseconds
 var TIMEOUT = 300000;
 var HIGHACCURACY = true;
 
-console.log('here')
 
 function getGeoLocation() {
     try {
